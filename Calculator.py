@@ -11,3 +11,6 @@ def divide_new(a,b):
 
 def triple(a):
 	return a*a*a
+
+def square(a):
+	return a*a
