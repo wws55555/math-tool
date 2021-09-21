@@ -14,3 +14,9 @@ def triple(a):
 
 def square(a):
 	return a*a
+
+def muliply(a, b):
+	return a * b
+
+def say_hello():
+	print(hello)
